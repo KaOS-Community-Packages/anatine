@@ -1,5 +1,5 @@
 pkgname=anatine
-pkgver=0.3.0
+pkgver=0.4.1
 pkgrel=1
 pkgdesc="An open source twitter client based on chromium"
 arch=('x86_64')
