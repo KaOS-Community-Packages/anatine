@@ -7,7 +7,7 @@ url="https://github.com/sindresorhus/anatine"
 license=('MIT')  
 source=("https://github.com/sindresorhus/anatine/releases/download/${pkgver}/Anatine-linux-${pkgver}.zip" "anatine.png" "anatine.desktop")
 depends=("gtk2" "gconf" "nss" "libnotify" "alsa-lib" "libxtst")
-md5sums=('37c6238ab8f31274282e353c050ee350'
+md5sums=('3505132453752d6033dadab0b0ad7934'
          '9a820cd4774a853aa8b23951220e0d89'
          '7465785fc2e03d981d2978843cdc6334')
 
