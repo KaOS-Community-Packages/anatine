@@ -1,5 +1,5 @@
 pkgname=anatine
-pkgver=0.4.1
+pkgver=0.4.2
 pkgrel=1
 pkgdesc="An open source twitter client based on chromium"
 arch=('x86_64')
@@ -7,7 +7,7 @@ url="https://github.com/sindresorhus/anatine"
 license=('MIT')  
 source=("https://github.com/sindresorhus/anatine/releases/download/${pkgver}/Anatine-linux-${pkgver}.zip" "anatine.png" "anatine.desktop")
 depends=("gtk2" "gconf" "nss" "libnotify" "alsa-lib" "libxtst")
-md5sums=('3505132453752d6033dadab0b0ad7934'
+md5sums=('e580045f788ed0a40b73dffb9d9f93d1'
          '9a820cd4774a853aa8b23951220e0d89'
          '7465785fc2e03d981d2978843cdc6334')
 
